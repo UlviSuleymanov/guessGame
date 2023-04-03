@@ -1,0 +1,8 @@
+# ninja log v5
+6	524	7022344906973843	CMakeFiles/guessGame.dir/main.cpp.obj	9a345a4c10c61214
+524	635	7022344908055070	guessGame.exe	caa18c14255ffd69
+13	539	7022352548599406	CMakeFiles/guessGame.dir/utils/guessutils.cpp.obj	22c5aae6853474f1
+3	508	7022352780497464	CMakeFiles/guessGame.dir/main.cpp.obj	9a345a4c10c61214
+508	788	7022352783251822	guessGame.exe	88e826dfd0ca5dc6
+7	503	7022353398224213	CMakeFiles/guessGame.dir/utils/guessutils.cpp.obj	22c5aae6853474f1
+503	622	7022353399341224	guessGame.exe	88e826dfd0ca5dc6

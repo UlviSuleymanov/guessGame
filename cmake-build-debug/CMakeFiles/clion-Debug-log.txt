@@ -1,0 +1,4 @@
+"C:\Program Files\New folder\CLion 2022.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/New folder/CLion 2022.3.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\C++ projects\guessGame" -B "D:\C++ projects\guessGame\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++ projects/guessGame/cmake-build-debug
